@@ -1,5 +1,5 @@
 # BURN
-
+![build](https://github.com/angelocarly/BURN/actions/workflows/cmake.yml/badge.svg)  
 Generative art Vulkan engine. 
 
 
