@@ -36,7 +36,7 @@ make
 
 ## Dependencies
 - [spdlog (unused)](https://github.com/gabime/spdlog) - Fast header only logging library.
-- [glfw (unused)]](https://github.com/glfw/glfw) - Cross platform window and input library.
+- [glfw (unused)](https://github.com/glfw/glfw) - Cross platform window and input library.
 - [glm (unused)](https://github.com/g-truc/glm) - OpenGL Math Library, wonderful to use imo.
 - [Vulkan SDK (unused)](https://vulkan.lunarg.com) - Low level graphics API.
 - [VulkanMemoryAllocator (unused)](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocator.
